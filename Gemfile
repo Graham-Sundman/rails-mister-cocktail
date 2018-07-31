@@ -32,7 +32,7 @@ gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.0.9'
-
+gem 'dotenv-rails', groups: [:development, :test]
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
